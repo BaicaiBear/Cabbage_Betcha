@@ -1,0 +1,10 @@
+name: Cabbage_Betcha
+main: Main
+version: "1.0.1"
+api: ["1.0.0"]
+
+load: POSTWORLD
+
+author: 小熊白菜 - Bear Cabbage
+description: 在玩家第一次进入游戏时基于物品
+website: http://bearcabbage.top/
